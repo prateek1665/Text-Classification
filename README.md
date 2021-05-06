@@ -5,3 +5,7 @@ pandas
 https://www.youtube.com/watch?v=qo8KjV13oYc
 https://www.youtube.com/watch?v=EcKEp6EHRFg
 https://www.youtube.com/watch?v=IVV9HcTkvhI
+
+Plot
+
+https://www.youtube.com/watch?v=oX2YXO_dapU
